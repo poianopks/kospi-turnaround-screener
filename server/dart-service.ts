@@ -1,5 +1,3 @@
-import fetch from "node-fetch";
-
 const DART_API_KEY = "34019f9d4f75b3751e3f00fbb0507ba9d3d2f684";
 const BASE_URL = "https://opendart.fss.or.kr/api";
 
